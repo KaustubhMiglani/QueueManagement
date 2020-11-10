@@ -1,0 +1,6 @@
+The request number 1 has moved to buffercounter from queue at time 0
+The request number 1 has moved to the counter from queue at time 0 
+The request number 2 has moved to buffercounter from queue at time 0
+The request number 2 has moved to the counter from queue at time 0 
+The request number 3 has moved to buffercounter from queue at time 0
+The request number 3 has moved to the counter from queue at time 0 

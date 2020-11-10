@@ -1,0 +1,16 @@
+The request number 1 entered buffer of counter 1 at time 0 and exited at time 1.His time spent in queue is 0 and time spent in buffer is 0
+The request number 2 entered buffer of counter 2 at time 0 and exited at time 2.His time spent in queue is 0 and time spent in buffer is 0
+The request number 3 entered buffer of counter 3 at time 0 and exited at time 3.His time spent in queue is 0 and time spent in buffer is 0
+The request number 4 entered buffer of counter 1 at time 0 and exited at time 5.His time spent in queue is 0 and time spent in buffer is 1
+The request number 5 entered buffer of counter 2 at time 0 and exited at time 6.His time spent in queue is 0 and time spent in buffer is 2
+The request number 6 entered buffer of counter 3 at time 0 and exited at time 7.His time spent in queue is 0 and time spent in buffer is 3
+The request number 7 entered buffer of counter 1 at time 0 and exited at time 10.His time spent in queue is 0 and time spent in buffer is 5
+The request number 8 entered buffer of counter 2 at time 0 and exited at time 13.His time spent in queue is 0 and time spent in buffer is 6
+The request number 11 entered buffer of counter 2 at time 0 and exited at time 14.His time spent in queue is 0 and time spent in buffer is 13
+The request number 9 entered buffer of counter 3 at time 0 and exited at time 15.His time spent in queue is 0 and time spent in buffer is 7
+The request number 14 entered buffer of counter 2 at time 2 and exited at time 16.His time spent in queue is 2 and time spent in buffer is 13
+The request number 10 entered buffer of counter 1 at time 0 and exited at time 18.His time spent in queue is 0 and time spent in buffer is 10
+The request number 13 entered buffer of counter 1 at time 1 and exited at time 19.His time spent in queue is 1 and time spent in buffer is 10
+The request number 16 entered buffer of counter 1 at time 5 and exited at time 22.His time spent in queue is 5 and time spent in buffer is 9
+The request number 12 entered buffer of counter 3 at time 0 and exited at time 24.His time spent in queue is 0 and time spent in buffer is 15
+The request number 15 entered buffer of counter 3 at time 3 and exited at time 26.His time spent in queue is 3 and time spent in buffer is 14
